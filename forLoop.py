@@ -14,3 +14,7 @@ for fruit in fruits:        # 第二个实例
 tupleExamp = (1, "hello", 2, "world")
 for tulp in tupleExamp:
     print("当前元素：", tulp)
+#字典
+dict1 = {1: "hello", 2: "world"}
+for dictEle in dict1:
+    print("当前字典元素：" + dict1[dictEle])
