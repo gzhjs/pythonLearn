@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*- 
-str = input("请输入：")
-print("你输入的内容是: ", str)
+# str = input("请输入：")
+# print("你输入的内容是: ", str)
 
 # 打开一个文件
 fo = open("foo.txt", "w")
